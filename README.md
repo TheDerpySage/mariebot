@@ -27,3 +27,9 @@ Deal with 0 returns
 Split up upcoming day/week by homework and exams
 
 IMPLEMENT COGS https://gist.github.com/leovoel/46cd89ed6a8f41fd09c5
+
+Automate the creation of the DB tables (It assumes tables are setup)
+
+Move to SQLite3
+
+>Because of these, this is largely incomplete and shouldn't be deployed elsewhere, however it works in it's current state when the tables are properly setup
