@@ -18,16 +18,4 @@ MySQL 5.7 Server
 
 TO-DO
 =============
-Get CLI app working (import asyncio for background tasking to remain consistent between discord and CLI app)
-
-Deal with 0 returns
-
-Split up upcoming day/week by homework and exams
-
-IMPLEMENT COGS https://gist.github.com/leovoel/46cd89ed6a8f41fd09c5 OR Completely remove discord.py.
-
-Automate the creation of the DB tables (It assumes tables are setup)
-
-Move to SQLite3
-
->Because of these, this is largely incomplete and shouldn't be deployed elsewhere, however it works in it's current state when the tables are properly setup
+I'll be revisiting this very soon with the intent on moving it over to a Flask Web application. It'll have all the old functionality but it'll have less of a school structured focus. My focus is to first see Admiral to my initial vision.
